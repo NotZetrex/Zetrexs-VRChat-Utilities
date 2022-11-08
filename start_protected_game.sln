@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "start_protected_game", "start_protected_game.csproj", "{65EBA3EF-2C35-4BE9-82E6-6298744E711B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65EBA3EF-2C35-4BE9-82E6-6298744E711B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65EBA3EF-2C35-4BE9-82E6-6298744E711B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65EBA3EF-2C35-4BE9-82E6-6298744E711B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65EBA3EF-2C35-4BE9-82E6-6298744E711B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DB7B26E-89D7-4964-A706-F56C4464C8CC}
+	EndGlobalSection
+EndGlobal
