@@ -1,6 +1,8 @@
 # Zetrex's VRChat Utilities
 **This itself does not interact with VRChat directly like a mod or anything, it just starts VRChat, that is all.**
 
+**Make sure to read the insallation instructions at the bottom to ensure everything works properly, its like 2 steps so don't be lazy.**
+
 I originally created this to get into VRChat faster by starting all my programs related to VRC along with it, then it slowly turned into a general purpose program that I thought others would find useful.
 
 # What it do?
