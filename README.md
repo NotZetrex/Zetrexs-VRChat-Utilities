@@ -75,4 +75,4 @@ This program uses the old name of the EAC launcher to be ran instead of the game
 # Current Bugs
 
 ## Small chance of a random crash when rebooting a program
-I made it so you can use a shortcut to launch the utility again while vrchat is running and continue like nothing happened.
+Temp fix: I made it so you can use a shortcut to launch the utility again while vrchat is running and continue like nothing happened.
