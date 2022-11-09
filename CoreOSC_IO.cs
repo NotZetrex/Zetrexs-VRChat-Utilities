@@ -6,7 +6,7 @@ using CoreOSC;
 using CoreOSC.Types;
 
 
-//From VolcanicArts VRCOSC
+//From https://github.com/VolcanicArts/VRCOSC
 namespace VRCOSC.Game.Modules;
 
 public static class SocketExtensions
