@@ -48,6 +48,7 @@ Mainly shows extra logs in the console window
 
 ## -Setup
 Enables setup mode in where you can configure what programs you want to launch, your timelimit, and osc router addresses.
+
 ![image](https://user-images.githubusercontent.com/102548737/200732551-6138a988-cd12-4914-8312-69e58a3e96ca.png)
 ###### Note: Edit Program does not work yet, you can edit the config by going to "VRC Directory/Zetrex's VRC Utils/Programs/Executable Name.json"
 
